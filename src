@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>PSU JAVASCRIPT LAB</title>
+</head>
+<body>
+<script type="text/javascript">
+//Browser log
+const EVENT_NAME = "Olympics 2022"
+console.log("Browser is " + navigator.vendor)
+
+console.log("Event: " + EVENT_NAME)
+
+let athleteName = "Shaun White"
+let athleteHeight = "5'9\""
+console.log(athleteName + " is " + athleteHeight)
+
+athleteName = "Mikaela Shiffrin"
+athleteHeight = "5'9\""
+
+let olympicEvents = ["Curling", "Figure Skating", "Snowcurling"]
+
+
+//document.write("String from Javacript - Do not use")
+</script>
+</body>
